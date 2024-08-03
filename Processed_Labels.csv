@@ -1,0 +1,70 @@
+health condition,health condition.1,label
+ADD/ADHD,mental health,neutral
+Adolescence,neurological,harmful
+AIDS-related weight loss,immune system,beneficial
+ALS,neurological,neutral
+Alzheimer’s,neurological,neutral
+Anorexia,mental health,neutral
+Anxiety,mental health,neutral
+Asthma,respiratory,harmful
+Autism,neurological,neutral
+Autoimmune Disease,immune system,neutral
+Bipolar Disorder,mental health,neutral
+Brain Cancer,cancer,neutral
+Breast Cancer,cancer,neutral
+Cachexia,cancer,neutral
+Chemotherapy related nausea & vomiting,general health,beneficial
+Chronic Pain,neurological,beneficial
+Cluster Headaches,neurological,neutral
+Colitis,gastrointestinal ,neutral
+Colorectal Cancer,cancer,neutral
+Crohn's Disease,gastrointestinal ,neutral
+Depression,mental health,harmful
+Dermatitis,skin,neutral
+Diabetic Neuropathy,neurological,neutral
+Dystonia,neurological,neutral
+Endometrial Cancer,cancer,neutral
+Endometriosis,reproductive ,neutral
+Epilepsy,neurological,beneficial
+Fertility,reproductive ,harmful
+Fibromyalgia,neurological,neutral
+Gastro Intestinal Reflux,gastrointestinal ,neutral
+Glaucoma,eye health,neutral
+Glioblastoma Multiforme,cancer,neutral
+Heart Disease,cardiovascular,neutral
+Hepatitis C,infection,neutral
+Hiccups,neurological,neutral
+HIV related inflammation,general health,neutral
+HIV-related neuropathy,general health,neutral
+Huntington's Disease,neurological,neutral
+Hypertension,cardiovascular,neutral
+Idiopathic Intracranial Hypertension,neurological,neutral
+Inflammatory Bowel Disease (IBD),gastrointestinal ,neutral
+Insomnia,general health,beneficial
+Leukemia,cancer,neutral
+Libido,reproductive ,neutral
+Lung Cancer,cancer,neutral
+Lymphoma,cancer,neutral
+Malaria,infection,neutral
+Meth addiction,mental health,neutral
+Migraine,neurological,neutral
+Motion Sickness,general health,neutral
+Multiple Sclerosis (MS),neurological,beneficial
+Obesity,general health,neutral
+Osteoarthritis,general health,neutral
+Pancreatic Cancer,cancer,neutral
+Parkinson’s,neurological,neutral
+Prostate Cancer,cancer,neutral
+Prostatitis,reproductive ,neutral
+Psoriasis,skin,neutral
+PTSD,mental health,neutral
+Rheumatoid Arthritis,immune system,neutral
+Schizophrenia,mental health,harmful
+Senile Dementia,neurological,neutral
+Skin Cancer,cancer,neutral
+Stroke,cardiovascular,harmful
+Sturge-Weber Syndrome ,"neurological, skin",neutral
+Tinnitus,neurological,neutral
+Tourette’s,neurological,neutral
+Trichotillomania,mental health,neutral
+Wilson's Disease,eye health,neutral
